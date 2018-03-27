@@ -1,6 +1,6 @@
 # Maker-Uno-Asal-Kau-Bahagia
 
-This code will generate tone melody for famous Indonesia song "Armada - Asal Kau Bahagia" in solo part. For more details on how it works, please refer Youtube link below:
+This code will generate tone melody for famous Indonesia song "Armada - Asal Kau Bahagia" in solo part. For more details on how it works, please refer Youtube link:
 https://www.youtube.com/watch?v=zg8-vOojoYU
 
 ## Contribution
